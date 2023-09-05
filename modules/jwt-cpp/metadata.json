@@ -1,0 +1,11 @@
+{
+    "homepage": "https://github.com/Thalhammer/jwt-cpp",
+    "maintainers": [],
+    "repository": [
+        "github:Thalhammer/jwt-cpp"
+    ],
+    "versions": [
+        "0.6.0"
+    ],
+    "yanked_versions": {}
+}

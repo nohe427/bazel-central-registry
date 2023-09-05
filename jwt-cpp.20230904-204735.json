@@ -1,0 +1,21 @@
+{
+    "build_file": "/Users/nohe/Documents/jwt-cpp/BUILD",
+    "build_targets": [
+        "@jwt-cpp//:jwt-cpp"
+    ],
+    "compatibility_level": "1",
+    "deps": [],
+    "module_dot_bazel": "/Users/nohe/Documents/jwt-cpp/MODULE.bazel",
+    "name": "jwt-cpp",
+    "patch_strip": 1,
+    "patches": [
+        "/Users/nohe/Documents/jwt-cpp/non_module_deps.bzl"
+    ],
+    "presubmit_yml": null,
+    "strip_prefix": null,
+    "test_module_build_targets": [],
+    "test_module_path": null,
+    "test_module_test_targets": [],
+    "url": "https://github.com/Thalhammer/jwt-cpp/archive/refs/tags/v0.6.0.tar.gz",
+    "version": "0.6.0"
+}

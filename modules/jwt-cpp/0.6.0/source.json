@@ -1,0 +1,10 @@
+{
+    "url": "https://github.com/Thalhammer/jwt-cpp/archive/refs/tags/v0.6.0.tar.gz",
+    "integrity": "sha256-Aie9bgNWshE0EHXHmXyDfws4jAE3m9JWqlJVZqVVPwM=",
+    "patches": {
+        "non_module_deps.bzl.patch": "sha256-sRZEhC0Agz4mMQdvw9w0XYC3KIPbwzCBfsqOB1ab06M=",
+        "add_build_file.patch": "sha256-48cUYf0o02HZzvKQHsOaUvDEkdZ3cV5m9NDnCupugLc=",
+        "add_module_file.patch": "sha256-Npm/ApMd276tVtlc+XPei5n4RIjgcb4fb8FxWkCv+TM="
+    },
+    "patch_strip": 1
+}

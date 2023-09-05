@@ -1,0 +1,11 @@
+--- /dev/null
++++ a/BUILD.bazel
+@@ -0,0 +1,8 @@
++load("@rules_cc//cc:defs.bzl", "cc_library", "cc_binary")
++
++cc_library(
++    name="jwt-cpp",
++    hdrs=glob(["**/*.h"]),
++    includes=["include"],
++    deps=["@openssl"],
++)
